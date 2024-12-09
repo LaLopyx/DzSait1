@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login.php
+
+Sitemap: https://derevo.com/sitemap.xml
